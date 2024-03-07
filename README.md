@@ -1,8 +1,8 @@
 # Number-pate-identification-and-peer-to-peer-communication-using-LoRa
-This has the necessary files to perform Peer to peer communication and extract data from a number plate using python libraries
+This has the necessary files to perform Peer to peer communication and extract data from a number plate using Python libraries
 
 *******************************************************************
-Make sure to close the Arduino ide before running the Python script
+Make sure to upload the code to Arduino Uno and close the Arduino ide [sender script] before running the Python script
 *******************************************************************
 
 Pin Configuration:
